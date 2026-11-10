@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi, I'm Karine 👋
 
-<!--
-**karinebabajanyan/karinebabajanyan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software engineer from Armenia with about 5 years of experience building web applications, mostly on the backend.
 
-Here are some ideas to get you started:
+- 💼 Most recently at **TUMO**, working on internal learning-program and staff systems: maintaining legacy PHP (Yii2), helping migrate it to Node.js (NestJS), and building Vue.js frontends
+- 🛠️ Before that, ~3 years of **PHP / Laravel** projects: a contract-signing platform, a service company's web app and client projects
+- 🔐 Bachelor's and master's degrees in **Information Security** (National Polytechnic University of Armenia), so I care about secure coding: input validation, output encoding, XSS protection
+- ⚛️ I enjoy finding the connections between **physics and programming**, and I write about them on LinkedIn
+- 🔎 Open to backend and full-stack roles (remote or in Armenia)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech stack
+
+**Backend:** PHP (Laravel, Yii2), Node.js (NestJS, Express), TypeScript  
+**Frontend:** Vue.js, Inertia.js, Tailwind CSS  
+**Databases:** MySQL, MongoDB, SQL  
+**Tools:** Git, Docker, PHPUnit
+
+## Featured projects
+
+| Project | Stack | What it shows |
+|---|---|---|
+| [miniDashboard](https://github.com/karinebabajanyan/miniDashboard) | Laravel 11, Vue 3, Inertia | Role-based access, service layer, admin CRUD |
+| [userPhoneCrud](https://github.com/karinebabajanyan/userPhoneCrud) | Node.js, Express, MongoDB | REST API with controllers, services and models |
+| [vueLaravel](https://github.com/karinebabajanyan/vueLaravel) | Laravel, Vue 2, Vuex | SPA, Policies, polymorphic file uploads |
+
+## Contact
+
+- LinkedIn: [karine-babajanyan](https://www.linkedin.com/in/karine-babajanyan-942277189/)
+- Email: babajanyankarine1998@gmail.com
