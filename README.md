@@ -21,7 +21,6 @@ Software engineer from Armenia with about 5 years of experience building web app
 |---|---|---|
 | [miniDashboard](https://github.com/karinebabajanyan/miniDashboard) | Laravel 11, Vue 3, Inertia | Role-based access, service layer, admin CRUD |
 | [userPhoneCrud](https://github.com/karinebabajanyan/userPhoneCrud) | Node.js, Express, MongoDB | REST API with controllers, services and models |
-| [vueLaravel](https://github.com/karinebabajanyan/vueLaravel) | Laravel, Vue 2, Vuex | SPA, Policies, polymorphic file uploads |
 
 ## Contact
 
